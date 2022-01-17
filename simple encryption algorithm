@@ -1,6 +1,6 @@
 from tkinter import *
 en = Tk()
-en.title("CS-357_PA(0)/19164007")
+en.title("CS-537_PA(0)/19164007")
 en.geometry("400x400")
 
 def change(s):
